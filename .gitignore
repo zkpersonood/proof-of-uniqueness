@@ -1,0 +1,21 @@
+node_modules/
+cache/
+artifacts/
+typechain-types/
+
+# Environment files
+.env
+.env.local
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+coverage.json
+
+# Logs
+*.log
